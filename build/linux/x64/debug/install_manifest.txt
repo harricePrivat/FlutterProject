@@ -1,0 +1,12 @@
+/home/mit/pdf/build/linux/x64/debug/bundle/pdf
+/home/mit/pdf/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/mit/pdf/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/mit/pdf/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/mit/pdf/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/mit/pdf/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/mit/pdf/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/mit/pdf/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/mit/pdf/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/mit/pdf/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/mit/pdf/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/mit/pdf/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
